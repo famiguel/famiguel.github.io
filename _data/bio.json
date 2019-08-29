@@ -49,25 +49,22 @@
       ]
     },
   ],
- "skills": [
+  "skills": [
     {
       "name": "Microsoft Office",
-      "level": "",
       "keywords": [
       ]
     },
     {
-      "name": "Photoshop and Lightroom",
-      "level": "",
+      "name": "Adobe Photoshop and Light Room",
       "keywords": [
       ]
-    }
-     {
+    },
+    {
       "name": "Canva",
-      "level": "",
       "keywords": [
       ]
-    }
+    },
   ],
   "education": [
     {
