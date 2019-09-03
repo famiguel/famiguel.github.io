@@ -34,14 +34,14 @@
   },
   "interests": [
     {
-      "name": "dancing",
+      "name": "dancing"
     },
     {
-      "name": "coffee shop hopping",
+      "name": "coffee shop hopping"
       ]
     },
     {
-      "name": "food photography",
+      "name": "food photography"
     }
   ],
   "skills": [
@@ -61,7 +61,7 @@
       "area": "Business (expected Spring, 2021)",
       "studyType": "B.B.A.",
       "startDate": "2017-08-20",
-      "endDate": "Present",
+      "endDate": "Present"
     }
   ],
   "work": [
