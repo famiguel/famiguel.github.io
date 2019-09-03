@@ -15,18 +15,15 @@
       "region": "Hawaii"
     },
     "profiles": [
-      {
-        "network": "github",
+      {"network": "github",
         "username": "famiguel",
         "url": "http://github.com/famiguel"
       },
-      {
-        "network": "linkedin",
+      {"network": "linkedin",
         "username": "fayeannemiguel",
         "url": "http://linkedin.com/in/fayeannemiguel"
       },
-      {
-        "network": "instagram",
+      {"network": "instagram",
         "username": "itsfayebulous",
         "url": "http://instagram.com/itsfayebulous"
       }
@@ -38,7 +35,6 @@
     },
     {
       "name": "coffee shop hopping"
-      ]
     },
     {
       "name": "food photography"
@@ -68,10 +64,8 @@
     {
       "company": "UH Manoa Philippine Studies",
       "position": "Student Assistant",
-      "website": "",
       "startDate": "2018-09-17",
       "endDate": "Present",
-      "summary": "",
       "highlights": [
         "Answers calls, run errands, and organize the office.",
         "Translate readings and articles from Filipino to English."
@@ -80,25 +74,19 @@
     {
       "company": "HiTea Cafe",
       "position": "Team Member",
-      "website": "",
       "startDate": "2016-01-01",
       "endDate": "Present",
-      "summary": "",
       "highlights": [
-        "Makes smoothies, ring up customers, and do inventory",
+        "Makes smoothies, ring up customers, and do inventory"
       ]
     }
   ],
   "volunteer": [
     {
       "organization": "Hale Makua",
-      "website": "",
-      "position": "",
       "startDate": "2014-10-01",
       "endDate": "2017-05-20",
-      "summary": "Assist residents with activities such as bingo night, Halloween, and Christmas programs.",
-      "highlights": [
-      ]
+      "summary": [ "Assist residents with activities such as bingo night, Halloween, and Christmas programs."]
     }
-  ],
+  ]
 }
