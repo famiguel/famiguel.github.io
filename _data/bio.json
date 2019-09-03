@@ -35,36 +35,25 @@
   "interests": [
     {
       "name": "dancing",
-      "keywords": [
-      ]
     },
     {
       "name": "coffee shop hopping",
-      "keywords": [
       ]
     },
     {
       "name": "food photography",
-      "keywords": [
-      ]
-    },
+    }
   ],
   "skills": [
     {
       "name": "Microsoft Office"
-      "keywords": [
-      ]
     },
     {
       "name": "Adobe Photoshop and Light Room"
-      "keywords": [
-      ]
     },
     {
       "name": "Canva"
-      "keywords": [
-      ]
-    },
+    }
   ],
   "education": [
     {
@@ -73,9 +62,6 @@
       "studyType": "B.B.A.",
       "startDate": "2017-08-20",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
     }
   ],
   "work": [
@@ -113,6 +99,6 @@
       "summary": "Assist residents with activities such as bingo night, Halloween, and Christmas programs.",
       "highlights": [
       ]
-    },
+    }
   ],
 }
